@@ -11,7 +11,7 @@ public class DemoJDBC {
 
     private static Connection con = null;
     private static String username = "root";
-    private static String password = "4511426k";
+    private static String password = "";
     private static String URL = "jdbc:mysql://127.0.0.1:3306/phone_boock";
 
 
